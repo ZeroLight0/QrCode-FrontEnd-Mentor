@@ -19,7 +19,7 @@ When i first started frontend and frontend Mentor, I truly found it difficult to
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/ZeroLight0/QrCode-FrontEnd-Mentor)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
